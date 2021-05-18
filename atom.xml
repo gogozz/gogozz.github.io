@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YZ</title>
+  
+  <subtitle>may the spaghetti be with you</subtitle>
+  <link href="http://yougoyz.com/atom.xml" rel="self"/>
+  
+  <link href="http://yougoyz.com/"/>
+  <updated>2021-05-18T17:02:23.132Z</updated>
+  <id>http://yougoyz.com/</id>
+  
+  <author>
+    <name>Yizhen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hi there</title>
+    <link href="http://yougoyz.com/2021/05/19/mypost/"/>
+    <id>http://yougoyz.com/2021/05/19/mypost/</id>
+    <published>2021-05-18T16:08:51.000Z</published>
+    <updated>2021-05-18T17:02:23.132Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/uploads/luna5.jpg" alt="luna5"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/uploads/luna5.jpg&quot; alt=&quot;luna5&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
